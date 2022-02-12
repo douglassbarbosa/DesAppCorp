@@ -1,0 +1,6 @@
+com\sistema\appqrcode\models\Usuario.class
+com\sistema\appqrcode\connection\ConnectionMySQL.class
+com\sistema\appqrcode\repository\UsuarioRepository.class
+com\sistema\appqrcode\SistemaQrCodeApiApplication.class
+com\sistema\appqrcode\exception\UsuarioNotFoundException.class
+com\sistema\appqrcode\controller\UsuarioController.class
